@@ -1,0 +1,14 @@
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\bin\Debug\net8.0\DoublyLinkedListProject.exe
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\bin\Debug\net8.0\DoublyLinkedListProject.deps.json
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\bin\Debug\net8.0\DoublyLinkedListProject.runtimeconfig.json
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\bin\Debug\net8.0\DoublyLinkedListProject.dll
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\bin\Debug\net8.0\DoublyLinkedListProject.pdb
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\obj\Debug\net8.0\DoublyLinkedListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\obj\Debug\net8.0\DoublyLinkedListProject.AssemblyInfoInputs.cache
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\obj\Debug\net8.0\DoublyLinkedListProject.AssemblyInfo.cs
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\obj\Debug\net8.0\DoublyLinkedListProject.csproj.CoreCompileInputs.cache
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\obj\Debug\net8.0\DoublyLinkedListProject.dll
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\obj\Debug\net8.0\refint\DoublyLinkedListProject.dll
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\obj\Debug\net8.0\DoublyLinkedListProject.pdb
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\obj\Debug\net8.0\DoublyLinkedListProject.genruntimeconfig.cache
+C:\Users\lavre\OneDrive\Рабочий стол\ВНТУ\2 курс\Алгоритми\lab4\DoublyLinkedListProject\obj\Debug\net8.0\ref\DoublyLinkedListProject.dll
